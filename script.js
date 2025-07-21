@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
         button.addEventListener('click', function() {
             const text = this.textContent;
             if (text === 'เพิ่มเพื่อน') {
-                window.location.href = 'https://line.me/ti/p/2zRWuKT7qA';
+                window.location.href = 'https://line.me/ti/p/Y8yUr8Vvz-';
             } else if (text === 'โทรหาเรา') {
                 window.location.href = 'tel:0653782867';
             }
